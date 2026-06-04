@@ -53,7 +53,7 @@ public class MissaoEspacial {
     }
 
     /**
-     * Exibe os dados da missão de forma formatada.
+     * Exibe todos os dados da missão de forma formatada.
      */
     @Override
     public String toString() {
