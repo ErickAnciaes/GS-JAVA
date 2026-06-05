@@ -83,11 +83,18 @@ Main.java
 
 ## Link do Vídeo
 
-Inserir o link do vídeo de apresentação:
+link do vídeo de apresentação:
 
 ```text
 https://youtu.be/ewYQz8cQqJo
 ```
+
+link do repositório:
+
+```text
+https://github.com/ErickAnciaes/GS-JAVA
+```
+
 
 ---
 
